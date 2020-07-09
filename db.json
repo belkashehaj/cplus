@@ -1,8 +1,8 @@
 {
    "data":[
       {
-         "dateFrom":"new Date()",
-         "dateTo":"new Date()",
+         "dateFrom":"2020-07-07T22:00:00.000Z",
+         "dateTo":"2020-07-07T22:00:00.000Z",
          "messageDirection":"Both",
          "origin":"FRAFMLH",
          "destination":"CHIC1UA",
@@ -10,8 +10,8 @@
          "awbNumber":"45245242452"
       },
       {
-         "dateFrom":"new Date()",
-         "dateTo":"new Date()",
+         "dateFrom":"2020-07-07T22:00:00.000Z",
+         "dateTo":"2020-07-07T22:00:00.000Z",
          "messageDirection":"Incoming",
          "origin":"FRAFMLH",
          "destination":"CHIC1UA",
@@ -19,8 +19,8 @@
          "awbNumber":"11351313131"
       },
       {
-         "dateFrom":"new Date()",
-         "dateTo":"new Date()",
+         "dateFrom":"2020-07-07T22:00:00.000Z",
+         "dateTo":"2020-07-07T22:00:00.000Z",
          "messageDirection":"Incoming",
          "origin":"FRAFMLH",
          "destination":"CHIC1UA",
@@ -28,8 +28,8 @@
          "awbNumber":"24124524244"
       },
       {
-         "dateFrom":"new Date()",
-         "dateTo":"new Date()",
+         "dateFrom":"2020-07-07T22:00:00.000Z",
+         "dateTo":"2020-07-07T22:00:00.000Z",
          "messageDirection":"Incoming",
          "origin":"FRAFMLH",
          "destination":"CHIC1UA",
@@ -46,8 +46,8 @@
          "awbNumber":"24124524244"
       },
       {
-         "dateFrom":"new Date()",
-         "dateTo":"new Date()",
+         "dateFrom":"2020-07-07T22:00:00.000Z",
+         "dateTo":"2020-07-07T22:00:00.000Z",
          "messageDirection":"Outgoing",
          "origin":"FRAFMLH",
          "destination":"CHIC1UA",
@@ -55,8 +55,8 @@
          "awbNumber":"24124524244"
       },
       {
-         "dateFrom":"new Date()",
-         "dateTo":"new Date()",
+         "dateFrom":"2020-07-07T22:00:00.000Z",
+         "dateTo":"2020-07-07T22:00:00.000Z",
          "messageDirection":"Outgoing",
          "origin":"FRAFMLH",
          "destination":"CHIC1UA",
