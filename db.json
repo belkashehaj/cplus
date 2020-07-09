@@ -26,42 +26,6 @@
          "destination":"CHIC1UA",
          "messageType":"FHL",
          "awbNumber":"24124524244"
-      },
-      {
-         "dateFrom":"2020-07-07T22:00:00.000Z",
-         "dateTo":"2020-07-07T22:00:00.000Z",
-         "messageDirection":"Incoming",
-         "origin":"FRAFMLH",
-         "destination":"CHIC1UA",
-         "messageType":"FSU",
-         "awbNumber":"24124524244"
-      },
-      {
-         "dateFrom":"2020-07-07T22:00:00.000Z",
-         "dateTo":"2020-07-07T22:00:00.000Z",
-         "messageDirection":"Outgoing",
-         "origin":"FRAFMLH",
-         "destination":"CHIC1UA",
-         "messageType":"All",
-         "awbNumber":"24124524244"
-      },
-      {
-         "dateFrom":"2020-07-07T22:00:00.000Z",
-         "dateTo":"2020-07-07T22:00:00.000Z",
-         "messageDirection":"Outgoing",
-         "origin":"FRAFMLH",
-         "destination":"CHIC1UA",
-         "messageType":"FWB",
-         "awbNumber":"24124524244"
-      },
-      {
-         "dateFrom":"2020-07-07T22:00:00.000Z",
-         "dateTo":"2020-07-07T22:00:00.000Z",
-         "messageDirection":"Outgoing",
-         "origin":"FRAFMLH",
-         "destination":"CHIC1UA",
-         "messageType":"FHL",
-         "awbNumber":"24124524244"
       }
    ]
 }
