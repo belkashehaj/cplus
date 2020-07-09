@@ -1,31 +1,70 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "data":[
+      {
+         "dateFrom":"new Date()",
+         "dateTo":"new Date()",
+         "messageDirection":"Both",
+         "origin":"FRAFMLH",
+         "destination":"CHIC1UA",
+         "messageType":"All",
+         "awbNumber":"45245242452"
+      },
+      {
+         "dateFrom":"new Date()",
+         "dateTo":"new Date()",
+         "messageDirection":"Incoming",
+         "origin":"FRAFMLH",
+         "destination":"CHIC1UA",
+         "messageType":"FWB",
+         "awbNumber":"11351313131"
+      },
+      {
+         "dateFrom":"new Date()",
+         "dateTo":"new Date()",
+         "messageDirection":"Incoming",
+         "origin":"FRAFMLH",
+         "destination":"CHIC1UA",
+         "messageType":"FHL",
+         "awbNumber":"24124524244"
+      },
+      {
+         "dateFrom":"new Date()",
+         "dateTo":"new Date()",
+         "messageDirection":"Incoming",
+         "origin":"FRAFMLH",
+         "destination":"CHIC1UA",
+         "messageType":"FSU",
+         "awbNumber":"24124524244"
+      },
+      {
+         "dateFrom":"new Date()",
+         "dateTo":"new Date()",
+         "messageDirection":"Outgoing",
+         "origin":"FRAFMLH",
+         "destination":"CHIC1UA",
+         "messageType":"All",
+         "awbNumber":"24124524244"
+      },
+      {
+         "dateFrom":"new Date()",
+         "dateTo":"new Date()",
+         "messageDirection":"Outgoing",
+         "origin":"FRAFMLH",
+         "destination":"CHIC1UA",
+         "messageType":"FWB",
+         "awbNumber":"24124524244"
+      },
+      {
+         "dateFrom":"new Date()",
+         "dateTo":"new Date()",
+         "messageDirection":"Outgoing",
+         "origin":"FRAFMLH",
+         "destination":"CHIC1UA",
+         "messageType":"FHL",
+         "awbNumber":"24124524244"
+      }
+   ],
+   "pageSize":"3",
+   "pageIndex":"0",
+   "length":"7"
 }
