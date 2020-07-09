@@ -63,5 +63,8 @@
          "messageType":"FHL",
          "awbNumber":"24124524244"
       }
-   ]
+   ],
+   "pageSize":"3",
+   "pageIndex":"0",
+   "length":"7"
 }
