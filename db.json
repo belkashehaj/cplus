@@ -37,8 +37,8 @@
          "awbNumber":"24124524244"
       },
       {
-         "dateFrom":"new Date()",
-         "dateTo":"new Date()",
+         "dateFrom":"2020-07-07T22:00:00.000Z",
+         "dateTo":"2020-07-07T22:00:00.000Z",
          "messageDirection":"Outgoing",
          "origin":"FRAFMLH",
          "destination":"CHIC1UA",
